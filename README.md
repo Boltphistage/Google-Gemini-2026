@@ -4,7 +4,7 @@
 > #### Archive password: `2026`
 
 
-Google Gemini is a multimodal AI assistant from Google that understands and generates text, images, code, and more, helping with learning, creation, planning, and productivity tasks.
+Google Gemini is an AI assistant that answers questions, generates text and code, and analyzes images and documents.
 
 ## Installation
 
@@ -15,18 +15,20 @@ Google Gemini is a multimodal AI assistant from Google that understands and gene
 
 ## Features
 
-- Advanced multimodal understanding (text, image, video, audio, code)
-- Powerful reasoning and long-context capabilities
-- Image and video generation tools
-- Integration with Google Workspace and Search
-- Agentic features for multi-step task completion
+- Conversational assistant powered by Google's Gemini multimodal models
+- Text, code, image, and document understanding in a single chat window
+- Long-context reasoning for large files and extended conversations
+- Built-in Google Search grounding for up-to-date answers with sources
+- Export and share responses, plus save custom prompts for reuse
 
 ## System Requirements
 
+```
 | Parameter  | Minimum |
 | ---------- | ------- |
-| OS         | Windows 10/11 / macOS / Android / iOS |
-| CPU        | Any modern processor |
-| RAM        | 4 GB |
-| Disk Space | 300 MB |
-| Additional | Internet connection, Google account |
+| OS         | Windows 10 64-bit (version 1809 or later) |
+| CPU        | Intel Core i5-8400 or AMD Ryzen 5 2600 |
+| RAM        | 8 GB |
+| Disk Space | 2 GB |
+| Additional | Internet connection and a Google account |
+```
